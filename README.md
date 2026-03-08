@@ -12,9 +12,3 @@ This repository contains the design, parametric modeling scripts, and documentat
 * `docs/`: Technical documentation, cross-section analyses, and theoretical calculations (e.g., `Z-Axis.pdf`).
 * `images/`: Visualizations and CAD renderings of the stator layers.
 * `src/`: Python source code (`8-layer_AFPM.py`) used for the parametric generation of the stator geometry.
-
-## Current Status & Future Work
-The stator design and coil optimization phases are complete. The next phase involves:
-* Designing the complementary 12-pole Neodymium (NdFeB) rotor array.
-* Determining optimal magnet thickness and air gap tolerances for cogging torque reduction.
-* Conducting magnetic Finite Element Analysis (FEA) to validate torque output.
